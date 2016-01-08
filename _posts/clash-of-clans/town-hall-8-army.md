@@ -2,8 +2,6 @@ title: Town Hall 8 Army
 meta_title: Town Hall 8 Base Layout - Clash of Clans
 meta_description: Clash of Clans guide for creating a Town Hall 8 base design that's optimized for protecting your resources and trophies during an attack.
 ---
-<ol class="breadcrumb hidden-xs"><li><a href="/">Home</a></li><li><a href="/clash-of-clans/">Clash of Clans</a></li><li class="active">Town Hall 8 Army Composition</li></ol>
-
 <h2 class="page-header">Contents</h2>
 
 <ul class="nav nav-pills hidden-xs"><li role="presentation"><a href="/clash-of-clans/town-hall-8-guide/">Introduction</a></li><li role="presentation"><a href="/clash-of-clans/town-hall-8-base/">Base Layout</a></li><li role="presentation" class="active"><a href="/clash-of-clans/town-hall-8-army/">Army Composition</a></li><li role="presentation"><a href="/clash-of-clans/town-hall-8-upgrade-priority/">Upgrade Priority</a></li></ul>

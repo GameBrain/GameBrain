@@ -2,8 +2,6 @@ title: Town Hall 6 Upgrade Priority
 meta_title: Town Hall 6 Upgrade Priority - Clash of Clans
 meta_description: This guide will show you the optimal Town Hall 6 upgrade priority for your village in Clash of Clans. Maximize your TH6 raiding potential and base defense.
 ---
-<ol class="breadcrumb hidden-xs"><li><a href="/">Home</a></li><li><a href="/clash-of-clans/">Clash of Clans</a></li><li class="active">Town Hall 6 Upgrade Priority</li></ol>
-
 <h2 class="page-header">Contents</h2>
 
 <ul class="nav nav-pills hidden-xs"><li role="presentation"><a href="/clash-of-clans/town-hall-6-guide/">Introduction</a></li><li role="presentation"><a href="/clash-of-clans/town-hall-6-base/">Base Layout</a></li><li role="presentation"><a href="/clash-of-clans/town-hall-6-army/">Army Composition</a></li><li role="presentation" class="active"><a href="/clash-of-clans/town-hall-6-upgrade-priority/">Upgrade Priority</a></li></ul>

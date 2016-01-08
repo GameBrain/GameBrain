@@ -2,8 +2,6 @@ title: Town Hall 6 Guide
 meta_title: Town Hall 6 Guide - Clash of Clans
 meta_description: This Town Hall 6 guide will show you everything you need to know to become an excellent player in Clash of Clans.
 ---
-<ol class="breadcrumb hidden-xs"><li><a href="/">Home</a></li><li><a href="/clash-of-clans/">Clash of Clans</a></li><li class="active">Town Hall 6 Guide</li></ol>
-
 <h2 class="page-header">Contents</h2>
 
 <ul class="nav nav-pills hidden-xs"><li role="presentation" class="active"><a href="/clash-of-clans/town-hall-6-guide/">Introduction</a></li><li role="presentation"><a href="/clash-of-clans/town-hall-6-base/">Base Layout</a></li><li role="presentation"><a href="/clash-of-clans/town-hall-6-army/">Army Composition</a></li><li role="presentation"><a href="/clash-of-clans/town-hall-6-upgrade-priority/">Upgrade Priority</a></li></ul>

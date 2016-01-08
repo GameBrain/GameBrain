@@ -2,8 +2,6 @@ title: Town Hall 7 Army
 meta_title: Town Hall 7 Army Composition - Clash of Clans
 meta_description: Clash of Clans guide for creating an optimal Town Hall 7 Army composition. Perfect for wars, farming and gaining trophies.
 ---
-<ol class="breadcrumb hidden-xs"><li><a href="/">Home</a></li><li><a href="/clash-of-clans/">Clash of Clans</a></li><li class="active">Town Hall 7 Army Composition</li></ol>
-
 <h2 class="page-header">Contents</h2>
 
 <ul class="nav nav-pills hidden-xs"><li role="presentation"><a href="/clash-of-clans/town-hall-7-guide/">Introduction</a></li><li role="presentation"><a href="/clash-of-clans/town-hall-7-base/">Base Layout</a></li><li role="presentation" class="active"><a href="/clash-of-clans/town-hall-7-army/">Army Composition</a></li><li role="presentation"><a href="/clash-of-clans/town-hall-7-upgrade-priority/">Upgrade Priority</a></li></ul>

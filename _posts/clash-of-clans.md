@@ -1,9 +1,8 @@
 title: Clash of Clans
 meta_title: Clash of Clans - Game Brain
 meta_description: Game Brain provides detailed guides for Clash of Clans. Learn about base layouts, army compositions and more.
+layout: default
 ---
-<ol class="breadcrumb"><li><a href="/">Home</a></li><li class="active">Clash of Clans</li></ol>
-
 ## Guides
 We've created several guides for different Town Hall levels in Clash of Clans. The guides include base layouts, army compositions, upgrade priority and more. Click on the links below to view each guide.
 
