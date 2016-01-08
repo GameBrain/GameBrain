@@ -1,5 +1,4 @@
 title: Town Hall 6 Base
-date: {{ date }}
 meta_title: Town Hall 6 Base Layout - Clash of Clans
 meta_description: Clash of Clans guide for creating a Town Hall 6 base design that's optimized for protecting your resources and trophies during an attack.
 ---

@@ -1,5 +1,4 @@
 title: Town Hall 7 Guide
-date: {{ date }}
 meta_title: Town Hall 7 Guide - Clash of Clans
 meta_description: This Town Hall 7 guide for Clash of Clans will show you base layouts, building upgrade priority, army compositions and more.
 ---

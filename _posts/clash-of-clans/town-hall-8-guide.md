@@ -1,5 +1,4 @@
 title: Town Hall 8 Guide
-date: {{ date }}
 meta_title: Town Hall 8 Guide - Clash of Clans
 meta_description: This Town Hall 8 guide will show you everything you need to know to become an excellent player in Clash of Clans. Learn about base layouts and more!
 ---

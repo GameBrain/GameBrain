@@ -1,5 +1,4 @@
 title: Clash of Clans
-date: {{ date }}
 meta_title: Clash of Clans - Game Brain
 meta_description: Game Brain provides detailed guides for Clash of Clans. Learn about base layouts, army compositions and more.
 ---

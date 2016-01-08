@@ -1,5 +1,4 @@
 title: Town Hall 7 Base
-date: {{ date }}
 meta_title: Town Hall 7 Base Layout - Clash of Clans
 meta_description: Clash of Clans guide for creating a Town Hall 7 base design that's optimized for protecting your resources and trophies during an attack.
 ---

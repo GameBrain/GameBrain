@@ -1,5 +1,4 @@
 title: Town Hall 7 Army
-date: {{ date }}
 meta_title: Town Hall 7 Army Composition - Clash of Clans
 meta_description: Clash of Clans guide for creating an optimal Town Hall 7 Army composition. Perfect for wars, farming and gaining trophies.
 ---

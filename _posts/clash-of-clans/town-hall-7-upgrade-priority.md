@@ -1,5 +1,4 @@
 title: Town Hall 7 Upgrade Priority
-date: {{ date }}
 meta_title: Town Hall 7 Upgrade Priority - Clash of Clans
 meta_description: This guide will show you the optimal Town Hall 7 upgrade priority for your village in Clash of Clans. Maximize your TH7 raiding potential and base defense.
 ---

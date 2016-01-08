@@ -1,5 +1,4 @@
 title: Town Hall 6 Guide
-date: {{ date }}
 meta_title: Town Hall 6 Guide - Clash of Clans
 meta_description: This Town Hall 6 guide will show you everything you need to know to become an excellent player in Clash of Clans.
 ---
