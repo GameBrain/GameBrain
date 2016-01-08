@@ -25,7 +25,7 @@ Units can be upgraded to make them stronger just like buildings. All troop upgra
 - [Minion](/clash-of-clans/minion/) – Quick and versatile flying unit.
 - [Hog Rider](/clash-of-clans/hog-rider/) – Melee unit that rides a pet and targets defensive buildings.
 - [Valkyrie](/clash-of-clans/valkyrie/) – Fierce melee warrior that does splash damage to ground units
-- [Golem](/clash-of-clans/golem/) – Very tough melee tanking unit that spawns [Golemites](/clash-of-clans/golemites/) upon death.
+- [Golem](/clash-of-clans/golem/) – Very tough melee tanking unit that spawns [Golemites](/clash-of-clans/golemite/) upon death.
 - [Witch](/clash-of-clans/witch/) – Mighty summoner who raises [Skeletons](/clash-of-clans/skeleton/) from the dead to attack her enemy.
 - [Lava Hound](/clash-of-clans/lava-hound/) – Air unit that’s used for tanking and spawns [Lava Pups](/clash-of-clans/lava-pup/) upon death.
 
